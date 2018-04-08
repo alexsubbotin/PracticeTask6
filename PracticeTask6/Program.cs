@@ -82,7 +82,6 @@ namespace PracticeTask6
                 Console.WriteLine("The last calculted element {0} doesn't equal M", current);
 
             // Comapring N and J.
-            J++;
             if (N > J)
                 Console.WriteLine("N > J. Expected number of elements greater than the real one");
             if (N == J)
